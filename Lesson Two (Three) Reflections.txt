@@ -1,3 +1,4 @@
 3-5 When you initialize a repository, git bash creates a .git file.
 3-8 The staging area acts as a temporary holding place before the files go to the repository, which allows the user to select a certain number of files to put into the repository, and allows some room for error when creating new commits.
-3-13 You can use the staging area to check to see how much has been changed since the last commit, and from there judge if there has been a logical change before making a commit.
+3-13 The user can use the staging area to check to see how much has been changed since the last commit, and from there judge if there has been a logical change before making a commit.
+3-16 Branches would be useful when the user wants to try something new, but still work on the master copy should the thing that they are trying doesn't work out and has to be scrapped.

@@ -3,3 +3,4 @@
 3-13 The user can use the staging area to check to see how much has been changed since the last commit, and from there judge if there has been a logical change before making a commit.
 3-16 Branches would be useful when the user wants to try something new, but still work on the master copy should the thing that they are trying doesn't work out and has to be scrapped.
 3-21 Diagrams help with visualizing branch structure because it allows someone to see where the branches split in a simple diagram without having to look through and compare commit IDs.
+2-26 Merging the branches together merged the branches together into a single branch, with changes from both. We represent it in the way we do because the new merged commit can access both of the branches that make it up.
